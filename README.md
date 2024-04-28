@@ -1,4 +1,4 @@
-# Employee Management System (EMS) - Project README
+# Employee Management System (EMS)
 ## Overview:
 
 The **Employee Management System (EMS)** is a relational database project designed to manage employee data for an organization. It handles various aspects of employee information including personal details, department affiliations, salary records, and project assignments. This system enables HR departments to efficiently track and manage employee details and facilitates seamless department and project management.
